@@ -1,0 +1,31 @@
+Clear Launcher is a privacy-focused Android home screen replacement built for people with intellectual and developmental disabilities (IDD) and the caregivers who support them.
+
+Caregivers set a PIN and choose exactly which apps appear on the home screen. Nothing else is accessible without the PIN. No app stores, no settings, no distractions — just the apps your person needs.
+
+FEATURES
+
+Simple app grid — only the apps you choose appear, nothing else is reachable without the caregiver PIN.
+
+Caregiver PIN protection — 6-digit PIN with progressive lockout after failed attempts. Includes a recovery code system so caregivers are never permanently locked out.
+
+PIN scramble — optionally randomizes the keypad layout to prevent others from guessing the PIN by watching where you press.
+
+Adaptive theming — colors are automatically derived from the chosen wallpaper, creating a warm and personal home screen experience.
+
+Grid customization — choose between 2, 3, or 4 column layouts to suit your person's visual needs.
+
+Icon and text sizing — multiple size options for icons and app labels to support users with different visual abilities.
+
+Dark and light modes — full theme support with wallpaper color extraction.
+
+No accounts required — everything is stored locally on the device.
+
+No tracking or analytics — Clear Launcher collects no data. Nothing leaves your device. Ever.
+
+Free forever — Clear Launcher is free and open source software, licensed under GPL v3.
+
+ABOUT CLEAR VOICE
+
+Clear Launcher is built by Clear Voice LLC, a technology company dedicated to building free, open-source tools for the IDD community and the families who love them.
+
+clearvoiceworks.org
