@@ -1,0 +1,10 @@
+Initial release of Clear Launcher v0.1.0.
+
+- Simple app grid with caregiver PIN protection
+- Progressive lockout with recovery code system
+- PIN scramble for shoulder surfing prevention
+- Adaptive theming from wallpaper colors
+- Grid layout customization (2, 3, or 4 columns)
+- Icon and text size options
+- Dark and light mode support
+- No accounts, no tracking, no ads
